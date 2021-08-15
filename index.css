@@ -1,0 +1,99 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.banner {
+    font-size: 80px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("/Users/zarakay/Desktop/Projects/Dasmotos/Resources/Images/pattern.jpeg");
+    filter: drop-shadow(1px 1px 1px black);
+    text-shadow: black 0px 0px 12px;
+    width: 101%;
+    margin-top: 10px;
+}
+
+nav {
+    background-color: rgb(green);
+    position: absolute;
+    top: 20%;
+    width: 100%;
+}
+
+nav  {
+    display: inline; text-align: center;
+    padding-right: 30px;
+}
+
+a:link {
+    color: black;
+    font-size: 30px;
+    stroke: rgb(155, 100, 100);
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+a:visited {
+    color: black;
+    text-decoration: none;
+    stroke-width: 1px;
+    text-shadow: 0px;
+}
+
+
+a:hover {
+    opacity: .70;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.Brushes {
+    display: inline;
+    padding-right: 60px;
+    position: center;
+}
+.Frames {
+    display: inline;
+    padding-right: 60px;
+    position: center;
+}
+nav.Paint {
+    display: inline;
+    padding-right: 60px;
+    position: right;
+}
+
+img{
+
+    display: inline-block;
+    position: relative;
+    padding-left: 120px;
+    
+}
+
+.product {
+    text-align: center;
+}
+
+#return {
+    color: blue;
+    text-shadow: blueviolet 3px 3px 3px 3px;
+}
+.title {
+ font-size: 25px; 
+ position: center;
+ text-align: center;
+
+}
+
+p {
+    text-align: center;
+
+}
+
+.footer {
+    text-align: center;
+}
